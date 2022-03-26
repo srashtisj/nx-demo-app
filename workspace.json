@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "react-demo": "apps/react-demo",
+    "react-demo-e2e": "apps/react-demo-e2e"
+  }
+}
